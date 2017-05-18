@@ -91,7 +91,7 @@ KnotenParameter = [    1,2,1,0,150,150*tan(acos(0.98)),720,0;
                        21,2,1,0,500,500*tan(acos(0.98)),1700,1700*tan(acos(0.965));
                        22,2,1,0,500,500*tan(acos(0.98)),1300,1300*tan(acos(0.995));
                        23,2,1,0,1000,1000*tan(acos(0.98)),2900,2900*tan(acos(0.98));
-                       14,3,0,0,0,0,0,0;
+                       24,3,0,0,0,0,0,0;
                    %ToDo: Fuelle die Matrix "KnotenParameter" mit den zugehörigen Werten
 				  ];
   
