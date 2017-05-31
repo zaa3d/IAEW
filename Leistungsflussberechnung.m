@@ -165,4 +165,4 @@ ErzeugtPTotal = sum(Erzeugung_MW);
 ErzeugtQTotal = sum(Erzeugung_Mvar); 
 VerbrauchPTotal = sum(Last_MW); 
 VerbrauchQTotal = sum(Last_Mvar);
-
+%
